@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RoomReservationApp",
+            "request": "launch",
+            "mainClass": "Gestion_des_salles.RoomReservationApp",
+            "projectName": "Projet_4IIR_825c0afd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Gestion_des_salles.Main",
+            "projectName": "Projet_4IIR_a88e68be"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch App",
+            "mainClass": "your.main.Class",
+            "vmArgs": "--module-path \"D:/Programming/Workspace Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
+
